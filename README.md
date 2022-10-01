@@ -1,3 +1,3 @@
 ## Mobile-App by Thomasperge
-Mobile App build w/ Ionic and Vue.js
+Mobile App build w/ Ionic and Vue.js \n
 In the process of creation...
